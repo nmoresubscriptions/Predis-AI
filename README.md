@@ -41,16 +41,12 @@ Open [No More subscription predis AI apge](https://nomoresubscriptions.org/predi
 
 Make sure to select Application API during setup.
 
-Step 2 — Launch the Application
+Step 2 — Launch the Application and enter Repo URL
 
-After setup, open your workspace and enter your API key.
-
-Launch link:
-
-[browser_creator_open slug="predis-ai" name="Predis AI"]
+Download repo and enter your app - Enter your app name 
 
 Then:
-
+Get your API Key
 Paste your API key
 Click Continue
 Wait for system initialization
@@ -58,8 +54,8 @@ Step 3 — Activation
 
 Complete activation using the OpenOwn platform.
 
-Use the activation email tool below:
-[email_copy_popup]
+Use the activation email - Visit [Predis AI page](https://nomoresubscriptions.org/predis-ai/) to get acctocated email list
+
 
 You can also activate manually:
 
