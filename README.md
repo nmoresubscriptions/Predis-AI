@@ -1,4 +1,4 @@
-# Predis-AI
+# Predis AI Pro — Open-Source Alternative
 Predis AI Pro is a free and open-source alternative to Predis AI designed to simplify social media content creation and automation. It enables users to generate posts, captions, hashtags, and marketing creatives without requiring paid subscriptions or advanced technical knowledge.
 
 This project is built for marketers, creators, agencies, and businesses that want to streamline content production and improve productivity using AI-assisted workflows.
