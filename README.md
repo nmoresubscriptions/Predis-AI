@@ -31,6 +31,8 @@ To deploy Predis AI Pro, use the OpenOwn platform for a fast and simple setup pr
 
 Step 1 — Setup OpenOwn
 Create an account on [OpenOwn](https://my.openown.org/)
+<img width="479" height="698" alt="MyOpenOwn Acc crate" src="https://github.com/user-attachments/assets/7d57f780-cbb2-4945-86d5-d1bc5fd30765" />
+
 Open the Connected APIs section
 Add the repository URL below
 Generate an Application API key
