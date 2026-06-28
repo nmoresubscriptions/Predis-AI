@@ -3,7 +3,7 @@ Predis AI Pro is a free and open-source alternative to Predis AI designed to sim
 
 This project is built for marketers, creators, agencies, and businesses that want to streamline content production and improve productivity using AI-assisted workflows.
 
-##🚀 Overview
+## 🚀 Overview
 
 Predis AI Pro provides a simplified AI-driven environment for:
 
@@ -15,7 +15,7 @@ Content planning and scheduling support
 
 It is designed to reduce manual workload and speed up the entire content creation pipeline.
 
-##✨ Key Features
+## ✨ Key Features
 AI-generated posts for major platforms (Instagram, Facebook, LinkedIn, X, TikTok)
 Smart caption generation tailored to audience and tone
 Automatic hashtag suggestions for better reach
@@ -25,7 +25,7 @@ Brand customization (colors, tone, identity)
 Product or idea → full post generation workflow
 Content planning and publishing support
 
-##📦 Installation Guide
+## 📦 Installation Guide
 
 To deploy Predis AI Pro, use the OpenOwn platform for a fast and simple setup process.
 
@@ -67,7 +67,7 @@ Go to My Projects
 Select your project
 Click Activate
 
-##🎯 Use Cases
+## 🎯 Use Cases
 
 Predis AI Pro is ideal for:
 
@@ -77,13 +77,13 @@ E-commerce brands
 Content creators
 Freelancers
 Startups and small businesses
-##🧠 What is Predis AI?
+## 🧠 What is Predis AI?
 
 Predis AI is an AI-powered social media marketing platform that helps users create, plan, and automate content across multiple platforms.
 
 It transforms simple inputs like ideas, products, or URLs into ready-to-publish posts, including captions, hashtags, and visuals.
 
-##⚙️ How It Helps
+## ⚙️ How It Helps
 
 Predis AI Pro reduces time spent on:
 
