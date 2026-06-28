@@ -54,6 +54,9 @@ Download repo and enter your app - Enter your app name
 Then:
 Get your API Key
 Paste your API key
+
+<img width="799" height="348" alt="enter API" src="https://github.com/user-attachments/assets/a8edcb3d-b6e3-4c62-8b63-2296a824493e" />
+
 Click Continue
 Wait for system initialization
 Step 3 — Activation
@@ -68,6 +71,7 @@ You can also activate manually:
 Go to My Projects
 Select your project
 Click Activate
+
 
 ## 🎯 Use Cases
 
