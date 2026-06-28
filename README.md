@@ -37,7 +37,7 @@ Generate an Application API key
 
 Repository URL:
 
-[browser_creator_repo slug="predis-ai"]
+Open [No More subscription predis AI apge](https://nomoresubscriptions.org/predis-ai/) to get repo URL 
 
 Make sure to select Application API during setup.
 
