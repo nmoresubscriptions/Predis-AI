@@ -40,6 +40,8 @@ Generate an Application API key
 Repository URL:
 
 Open [No More subscription predis AI apge](https://nomoresubscriptions.org/predis-ai/) to get repo URL 
+<img width="787" height="236" alt="My App Enter Repo URL" src="https://github.com/user-attachments/assets/cc4afe55-dab2-48a6-bf92-505f74ff315e" />
+
 
 Make sure to select Application API during setup.
 
